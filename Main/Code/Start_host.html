@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Start Hosting</title>
+        <link rel="icon" type="image/x-icon" href="../Images/Logos/logo.png">
+        <style>
+            @import "CSS/Styles.css";
+            @import "CSS/Fonts.css";
+        </style>
+    </head>
+    <Body>
+        <main>
+            <div class="logo-1">
+                <a href="Home.html"><img class="logo-1" src="../Images/Logos/logo.png"></a>
+            </div>
+            <div class="floating-div">
+                <form>
+                    <form action="PHP/form-handler.php">
+                        <!-- Form title -->
+                        <h2>Sign Up</h2>
+                      
+                        <!-- Text input field -->
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name"><br><br>
+                      
+                        <!-- Email input field -->
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email"><br><br>
+                      
+                        <!-- Password input field -->
+                        <label for="password">Password:</label>
+                        <input type="password" id="password" name="password"><br><br>
+                      
+                        <!-- Textarea field -->
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message"></textarea><br><br>
+                      
+                        <!-- Select dropdown field -->
+                        <label for="select">Select your service:</label>
+                        <select id="select" name="select">
+                          <option value="option1">Free Hosting</option>
+                          <option value="option2">$5.99 Hosting</option>
+                          <option value="option3">$12.99 Hosting</option>
+                        </select><br><br>
+                        
+                        <!-- Checkbox field -->
+                        <label for="checkbox">Agree to recive marketing emails:</label>
+                        <input type="checkbox" id="checkbox" name="checkbox"><br><br>
+                      
+                        <!-- Radio button field -->
+                        <label for="radio">Do you agree with the terms of service</label><br>
+                        <input type="radio" id="radio" name="radio" value="option1">
+                        <label for="radio">Yes</label>
+
+                        <!-- Submit button -->
+                        <input type="submit" value="Submit">
+                      </form>
+                </form>
+            </div>
+        </main>
+    </Body>
+</html>

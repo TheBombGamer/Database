@@ -1,0 +1,73 @@
+/*Font imports from google fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+/*End font import*/
+
+/*Import for other stylesheets*/
+
+
+/*End import for other stylesheets*/
+
+/*Kode Mono*/
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+.kode-mono-normal {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.kode-mono-bold {
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+/*End Kode Mono*/
+
+/*Rock Salt*/
+.rock-salt-regular {
+  font-family: "Rock Salt", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+/*End Rock Salt*/
+/*Dancing Script*/
+.dancing-script-normal> {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/*End Dancing Script*/
+
+/*EB Garamond*/
+.eb-garamond-normal {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/*End EB Garamond*/
+
+/*Lobster*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+/*End Lobster*/
+
+/*Trade Winds*/
+@import url('https://fonts.googleapis.com/css2?family=Trade+Winds&display=swap');
+.trade-winds-regular {
+  font-family: "Trade Winds", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+/*End Trade Winds*/
+
