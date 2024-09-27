@@ -43,6 +43,26 @@ footer {
   clear: both;
 }
 /* Navbar Styles */
+@import "/Import.css";
+        .navbar {
+            display: flex;
+        }
+        .navbar ul {
+            align-items: center; /* Add this line */
+            height: 100%; /* Add this line */
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: row;
+        }
+        .navbar li {
+            vertical-align: middle;
+            margin-right: 20px; /* add some space between list items */
+        }
+        .navbar img {
+            margin-right: 20px; /* add some space between the logo and the ul */
+        }
 .navbar ul {
   list-style: none;
   margin: 0;
