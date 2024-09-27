@@ -68,7 +68,6 @@ footer {
   color: #ffffff;
 }
 /* Responsive Navbar */
-@media (max-width: 768px) {
   .navbar {
     flex-direction: column;
   }
@@ -78,7 +77,6 @@ footer {
   .navbar li {
     margin-right: 0;
   }
-}
 /*Logo Related*/
 .top-logo {
     max-height: 4vw;
