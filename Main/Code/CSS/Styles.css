@@ -63,24 +63,6 @@ footer {
         .navbar img {
             margin-right: 20px; /* add some space between the logo and the ul */
         }
-.navbar ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: space-between;
-}
-
-.navbar li {
-  float: left;
-  display: inline-block;
-  margin-right: 20px;
-}
-
-.navbar a {
-  text-decoration: none;
-  color: #ffffff;
-}
 /*Logo Related*/
 .top-logo {
     max-height: 4vw;
