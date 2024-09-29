@@ -66,6 +66,7 @@ footer {
 /*Logo Related*/
 .top-logo {
     max-height: 4vw;
+    margin: 1vh;
 }
 .logo-1 {
   max-height: 6vw;
