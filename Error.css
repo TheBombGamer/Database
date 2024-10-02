@@ -1,1 +1,9 @@
-
+a {
+    text-decoration: none;
+}
+.center_div {
+    text-align: center;
+    margin: 0 auto;
+    width: 40%;
+    
+}
