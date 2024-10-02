@@ -1,8 +1,17 @@
-a {
-    text-decoration: none;
-}
 .center_div {
-    text-align: center;
-    margin: 0 auto;
-    width: 40%;
+  text-align: center;
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+  margin-right: 30vw;
+  margin-left: 30vw;
+  height: 60vh;
+  width: 40vw;
+  color: #fff;
+  background-color: #000;
+  border-radius: 25px;
+  border: 2px solid #fff;
+  padding: 20px;
+}
+button {
+  margin: 10%;
 }
