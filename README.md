@@ -1,3 +1,5 @@
+# In Tribute Of Triziewix
+https://www.youtube.com/@Trizziewix
 # Kern Site Search
 Welcome to the Kern River Valley, this is the repository for Thekernvalley.us site. Please feel free to copy this repo but make sure that you atribute me the original author.
 # Use Cases
