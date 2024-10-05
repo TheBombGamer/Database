@@ -36,14 +36,13 @@ button:hover {
   background-color: #3e42b2;
 }
 footer {
+  max-height: 5vh;
   background-color: #414141;
   color: #ffffff;
   text-align: center;
   padding: 10px;
   clear: both;
 }
-/* Navbar Styles */
-@import "/Import.css";
         .navbar {
             display: flex;
         }
